@@ -1,5 +1,5 @@
 ---
 sorting-spec: |
- target-folder: /*
+ target-folder: /
  < a-z
 ---
